@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://codeforces.com/profile/postpone">
-  <img alt="Static Badge" src="https://img.shields.io/badge/don't-postpone-e5c7ff?style=flat-square&logo=codeforces&logoColor=b399ff">
-</a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/don't-postpone-e5c7ff?style=flat-square&logo=codeforces&logoColor=b399ff&url=https://codeforces.com/profile/postpone">
   <img src="https://img.shields.io/badge/dynamic/json?label=Code%3A%3AStats&query=%24.total_xp&url=https%3A%2F%2Fcodestats.net%2Fapi%2Fusers%2Fpostpone&style=flat-square&color=ffcce0"/>
   <img src="https://wakatime.com/badge/user/018ec974-669b-45f8-b379-3fa76ebf450f.svg?style=flat-square&color=ffd1ab"/>
 
