@@ -5,7 +5,7 @@
 
   <br>
   <br>
-  <img src="/pic/uwu.gif" alt="hi! UwU" width=330px>
+
 </p>
 
 <!-- language_colors=[&quot;FFD720&quot;,&quot;D3D3D3&quot;,&quot;f15854&quot;,&quot;5da5da&quot;, &quot;faa43a&quot;,&quot;60bd68&quot;,&quot;f17cb0&quot;, &quot;b2912f&quot;] -->
