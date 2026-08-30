@@ -1,3 +1,4 @@
+
 <p align="center">
   <img "Static Badge" src="https://img.shields.io/badge/codeforces:-postpone-e5c7ff?style=flat-square&logo=codeforces&logoColor=b399ff&link=https://codeforces.com/profile/postpone">
   <img src="https://img.shields.io/badge/dynamic/json?label=Code%3A%3AStats&query=%24.total_xp&url=https%3A%2F%2Fcodestats.net%2Fapi%2Fusers%2Fpostpone&style=flat-square&color=ffcce0"/>
@@ -5,7 +6,13 @@
 
   <br>
   <br>
-
 </p>
 
+## hi (～￣▽￣)～
+
+M.S. student in Robotics | SLAM & Pose Estimation
+
+Email: nopostpone@qq.com
+
 <!-- language_colors=[&quot;FFD720&quot;,&quot;D3D3D3&quot;,&quot;f15854&quot;,&quot;5da5da&quot;, &quot;faa43a&quot;,&quot;60bd68&quot;,&quot;f17cb0&quot;, &quot;b2912f&quot;] -->
+
